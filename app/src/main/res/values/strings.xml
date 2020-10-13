@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Near By Restaurants</string>
+    <string name="title_activity_dashboard">Dashboard Activity</string>
+    <string name="tab_listing">List</string>
+    <string name="tab_map">Map</string>
+    <string name="no_restaurants_found">No restaurants found in your area!</string>
+    <string name="settings">Settings</string>
+</resources>
